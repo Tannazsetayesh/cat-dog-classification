@@ -2,6 +2,9 @@
 # plot dog photos from the dogs vs cats dataset
 from matplotlib import pyplot
 from matplotlib.image import imread
+
+print("code is running...")
+
 # define location of dataset
 folder = 'train/'
 # plot first few images
